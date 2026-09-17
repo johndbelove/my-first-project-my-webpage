@@ -39,7 +39,7 @@ const App = () => {
             <a href="www.google.com" className="btn">learn more</a>
         </div>
         <div className="about-image">
-            <img src="../pictures/beloved.jpg" alt="about image" />
+            <img src={card} alt='hjfjk' />
         </div>
      </section>
      {/* <!-- TESTIMONY --> */}
