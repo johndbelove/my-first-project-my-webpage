@@ -1,12 +1,11 @@
 import React from 'react'
 import "./AboutPage.css"
 import card from "../../src/assets/card.jpg"
-import Header from "../components/Header/Header";
 
 const AboutPage = () => {
   return (
     <div>
-       <Header />
+      
       <section className="about">
         <div className='about-image'>
           <img src={card} alt="about us"></img>

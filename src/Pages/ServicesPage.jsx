@@ -1,11 +1,11 @@
 import React from 'react'
 import "./ServicesPage.css"
-import Header from "../components/Header/Header";
+
 
 const ServicesPage = () => {
   return (
     <div>
-             <Header />
+             
       <section className="services">
     <div className="services-heading">
         <span>WHAT WE DO</span>
